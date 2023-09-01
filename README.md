@@ -1,5 +1,8 @@
+# ![IMG_0925](https://github.com/mintipresh/KatesGDPortfolio/assets/63135621/acfd0237-9d45-4e4f-b933-d173fb39aabc)
 # Kate's Design Portfolio
-<em>Welcome to my Artist Portfolio! Here you will see a culmination of all my niche interests combined into one website, I hope you enjoy the ride ( •̀ ω •́ )</em>  
+
+<p><em>Welcome to my Artist Portfolio! Here you will see a culmination of all my niche interests combined into one website. <br>I hope you enjoy the ride ( •̀ ω •́ )</em></p>
+
 ***
 <h3><p>Graphics made for UCLA's Samahang Pilipino Cultural Night</p></h3> 
 <em>Many of these were made for Facebook banners, but are easily adaptable to Instagram posts!</em>
