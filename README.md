@@ -1,4 +1,4 @@
-# Kate's Design Portfolio
+# ✧ °  ｡ʚ Kate's Design Portfolio ɞ ｡° ✧
 
 <p><em>Welcome to my Artist Portfolio! Here you will see a culmination of all my niche interests combined into one website. <br>I hope you enjoy the ride ( •̀ ω •́ )</em></p>
 
