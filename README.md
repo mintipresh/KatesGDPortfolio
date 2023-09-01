@@ -1,6 +1,6 @@
 <h1><center> ✧ °  ｡ʚ Kate's Design Portfolio ɞ ｡° ✧ </center></h1>
 
-<p><em>Welcome to my Artist Portfolio! Here you will see a culmination of all my niche interests combined into one website. <br>I hope you enjoy the ride (. ❛ ᴗ ❛.) </em></p>
+<p>Welcome to my Artist Portfolio! Here you will see a culmination of all my niche interests combined into one website. <br>I hope you enjoy the ride (. ❛ ᴗ ❛.)</p>
 
 ***
 
